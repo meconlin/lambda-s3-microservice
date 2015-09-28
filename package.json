@@ -1,0 +1,17 @@
+{
+  "name": "vin-reference-microservice",
+  "version": "1.0.0",
+  "description": "vin reference microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "meconlin",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.0.6",
+    "aws-sdk": "^2.2.0",
+    "csv-streamify": "^2.0.0",
+    "http-status-codes": "^1.0.5"
+  }
+}
